@@ -1,4 +1,3 @@
-contactsmanager
-===============
+contacts manager built using Ionic framework
 
-contacts manager built using Ionic framework.
+(under construction..)
